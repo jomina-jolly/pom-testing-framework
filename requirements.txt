@@ -1,0 +1,3 @@
+pytest
+pip install Appium-Python-Client
+pip install -U selenium
